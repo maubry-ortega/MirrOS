@@ -1,12 +1,11 @@
-# 🦊 ZorroOS – Sistema Operativo Moderno en Zig
+# 🪞 MirrOS – Sistema Operativo Moderno en Zig
 
 ## 🎯 Filosofía del Proyecto
 
-ZorroOS es un sistema operativo modular, seguro y de alto rendimiento, escrito completamente en Zig, aprovechando:
-
-- **comptime** para optimización en tiempo de compilación.
-- **Manejo explícito de memoria**, sin GC ni abstracciones ocultas.
-- **Sistema de build integrado**, simplificando CI/CD y portabilidad.
+MirrOS es un sistema operativo modular, seguro y de alto rendimiento, escrito completamente en Zig, aprovechando:
+- **comptime** para optimización en tiempo de compilación
+- **Manejo explícito de memoria**, sin GC ni abstracciones ocultas
+- **Sistema de build integrado**, simplificando CI/CD y portabilidad
 
 La visión es un OS educativo y experimental, pero con estándares de calidad profesional y posibilidad de evolucionar hacia un entorno usable (similar a RedoxOS o SerenityOS, pero con Zig como ventaja).
 
