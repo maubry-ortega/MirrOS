@@ -1,0 +1,36 @@
+# Archivos generados por Zig
+.zig-cache/
+zig-out/
+
+# Archivos de compilación
+*.o
+*.obj
+*.elf
+*.bin
+*.iso
+*.img
+
+# Archivos temporales
+*.tmp
+*.temp
+temp_*
+
+# Archivos de respaldo
+*~
+*.bak
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos específicos del proyecto
+temp_gdbinit.txt
